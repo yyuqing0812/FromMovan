@@ -1,3 +1,0 @@
-#读写文件
-append_text = '\nThis is append file'
-my_file = open 
